@@ -1,0 +1,14 @@
+/Users/daviarruda/Desktop/ViaCEP/ViaCEP/bin/Debug/netcoreapp3.1/ViaCEP
+/Users/daviarruda/Desktop/ViaCEP/ViaCEP/bin/Debug/netcoreapp3.1/ViaCEP.deps.json
+/Users/daviarruda/Desktop/ViaCEP/ViaCEP/bin/Debug/netcoreapp3.1/ViaCEP.runtimeconfig.json
+/Users/daviarruda/Desktop/ViaCEP/ViaCEP/bin/Debug/netcoreapp3.1/ViaCEP.runtimeconfig.dev.json
+/Users/daviarruda/Desktop/ViaCEP/ViaCEP/bin/Debug/netcoreapp3.1/ViaCEP.dll
+/Users/daviarruda/Desktop/ViaCEP/ViaCEP/bin/Debug/netcoreapp3.1/ViaCEP.pdb
+/Users/daviarruda/Desktop/ViaCEP/ViaCEP/obj/Debug/netcoreapp3.1/ViaCEP.csproj.AssemblyReference.cache
+/Users/daviarruda/Desktop/ViaCEP/ViaCEP/obj/Debug/netcoreapp3.1/ViaCEP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daviarruda/Desktop/ViaCEP/ViaCEP/obj/Debug/netcoreapp3.1/ViaCEP.AssemblyInfoInputs.cache
+/Users/daviarruda/Desktop/ViaCEP/ViaCEP/obj/Debug/netcoreapp3.1/ViaCEP.AssemblyInfo.cs
+/Users/daviarruda/Desktop/ViaCEP/ViaCEP/obj/Debug/netcoreapp3.1/ViaCEP.csproj.CoreCompileInputs.cache
+/Users/daviarruda/Desktop/ViaCEP/ViaCEP/obj/Debug/netcoreapp3.1/ViaCEP.dll
+/Users/daviarruda/Desktop/ViaCEP/ViaCEP/obj/Debug/netcoreapp3.1/ViaCEP.pdb
+/Users/daviarruda/Desktop/ViaCEP/ViaCEP/obj/Debug/netcoreapp3.1/ViaCEP.genruntimeconfig.cache
